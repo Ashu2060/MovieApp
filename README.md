@@ -1,16 +1,28 @@
-# movie_details
+# MovieVerse 🎬
 
-A new Flutter project.
+MovieVerse is a Flutter application built using **Dart** that presents
+detailed information about movies, including posters, storyline, cast,
+director, box office collection, awards, and more movie posters.
 
-## Getting Started
+## Language
+- Dart
 
-This project is a starting point for a Flutter application.
+## Framework
+- Flutter
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+- Movie banner with play icon
+- Movie poster and storyline
+- Cast and director details
+- Box office collection and awards
+- Horizontal scrollable movie posters
+- Clean and simple UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Project Structure
+- `lib/main.dart` — Main Dart file
+- `images/` — Movie posters and assets
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to Run
+```bash
+flutter pub get
+flutter run
